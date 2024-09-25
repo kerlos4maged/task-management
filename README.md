@@ -31,11 +31,11 @@ To get started with the Task Tracker CLI, follow these steps:
 
 3. **npm install**:
     ```bash
+   install package
+
+4. **npm run start**:
+   ```bash
+   run the project
 
 ## Project URL:
-https://github.com/kerlos4maged/task-management.git
-    install package
-
-4. **npm run start**
-  ```bash
-  run the project
+https://roadmap.sh/projects/task-tracker
